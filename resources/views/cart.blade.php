@@ -40,7 +40,7 @@
     <!-- Submit button -->
     <div class="row justify-content-center pb-2">
         <div class="col-10 pt-2 pt-sm-0 d-flex justify-content-sm-start justify-content-center">
-            <button id="lastpart5" type="submit">
+            <button id="lastpart5" type="submit"style="width:100%;">
                 <span>ADD TO CART</span>
             </button>
         </div>
